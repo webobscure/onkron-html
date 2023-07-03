@@ -1,0 +1,1 @@
+document.getElementById("Две полки для дополнительного оборудования"). src = "assets/camera.png"; 
